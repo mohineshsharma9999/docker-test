@@ -1,4 +1,4 @@
-Django~=3.2
+Django>=3.0,<4.0
 psycopg2>=2.8
 asgiref==3.3.0
 boto3==1.16.13
